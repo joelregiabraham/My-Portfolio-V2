@@ -28,7 +28,7 @@ export function Footer() {
               </Link>
             </Button>
             <Button asChild variant="ghost" size="sm">
-              <Link href="www.linkedin.com/in/joel-regi-abraham-739b68279" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/joel-regi-abraham-739b68279/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>

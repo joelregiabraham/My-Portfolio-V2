@@ -153,8 +153,8 @@ export function HeroSection() {
           {/* Enhanced Social Links */}
           <div className="flex justify-center space-x-8 mb-12">
             {[
-              { icon: Github, href: "https://github.com/joel", label: "GitHub" },
-              { icon: Linkedin, href: "https://linkedin.com/in/joel", label: "LinkedIn" },
+              { icon: Github, href: "https://github.com/joelregiabraham", label: "GitHub" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/joel-regi-abraham-739b68279/", label: "LinkedIn" },
               { icon: Mail, href: "mailto:itzmejoels@gmail.com", label: "Email" },
               { icon: Download, href: "/resume.pdf", label: "Resume" },
             ].map(({ icon: Icon, href, label }, index) => (
