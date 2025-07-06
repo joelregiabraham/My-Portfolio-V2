@@ -22,13 +22,13 @@ export function Footer() {
           {/* Center - Social Links */}
           <div className="flex space-x-4">
             <Button asChild variant="ghost" size="sm">
-              <Link href="https://github.com/joel" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/joelregiabraham" target="_blank" rel="noopener noreferrer">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </Link>
             </Button>
             <Button asChild variant="ghost" size="sm">
-              <Link href="https://linkedin.com/in/joel" target="_blank" rel="noopener noreferrer">
+              <Link href="www.linkedin.com/in/joel-regi-abraham-739b68279" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>
